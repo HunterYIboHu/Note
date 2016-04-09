@@ -1,6 +1,7 @@
-# hopeful
-# cdate=2016/02/15
-# ldate=2016/02/15
+# XposedBridge_wiki_zh
+author:**hopeful**
+created date:2016/02/15
+last modify date:2016/04/09
 
 主页
 
