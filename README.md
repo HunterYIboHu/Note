@@ -12,7 +12,7 @@ I organize me note by tree structure like this.
 # Structure
 
 >Android
->
+
 >>Xposed
 
 >Java
@@ -20,7 +20,7 @@ I organize me note by tree structure like this.
 >C
 
 >[Web](Web/README.md)
->
+
 >>[Html](Web/Html/README.md)
 
 #END
